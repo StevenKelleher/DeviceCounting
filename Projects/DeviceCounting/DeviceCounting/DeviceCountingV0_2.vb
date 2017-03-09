@@ -123,10 +123,10 @@ Public Class DeviceCountingV0_2
 
 
 
-                    ' Dim LImage As New StreamReader(OpenFileDialog1.FileName)
+
 
                     PictureBox1.Load(OpenFileDialog1.FileName)
-                    'LImage.Close()
+
 
 
                     FileOpened = True

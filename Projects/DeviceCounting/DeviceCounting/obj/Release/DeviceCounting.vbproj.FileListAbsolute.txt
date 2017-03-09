@@ -27,3 +27,4 @@ c:\users\skelleher\documents\visual studio 2015\Projects\DeviceCounting\DeviceCo
 c:\users\skelleher\documents\visual studio 2015\Projects\DeviceCounting\DeviceCounting\obj\Release\DeviceCounting.pdb
 C:\Users\skelleher\Documents\Visual Studio 2015\Projects\DeviceCounting\DeviceCounting\obj\Release\DeviceCounting.DeviceCountingV0_1.resources
 C:\Users\skelleher\Documents\Visual Studio 2015\Projects\DeviceCounting\DeviceCounting\obj\Release\DeviceCounting.DeviceCountingV0_2.resources
+C:\Users\skelleher\Documents\Visual Studio 2015\Projects\DeviceCounting\DeviceCounting\obj\Release\DeviceCounting.vbprojResolveAssemblyReference.cache
