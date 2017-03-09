@@ -1,0 +1,9 @@
+F:\Trabajo\Proyecto1.0\Proyecto1.0\bin\Proyecto1.0.dll.config
+F:\Trabajo\Proyecto1.0\Proyecto1.0\bin\Proyecto1.0.dll
+F:\Trabajo\Proyecto1.0\Proyecto1.0\bin\Proyecto1.0.pdb
+F:\Trabajo\Proyecto1.0\Proyecto1.0\bin\Proyecto1.0.xml
+F:\Trabajo\Proyecto1.0\Proyecto1.0\obj\Debug\Proyecto1._0.Resources.resources
+F:\Trabajo\Proyecto1.0\Proyecto1.0\obj\Debug\Proyecto1.0 VB.vbproj.GenerateResource.Cache
+F:\Trabajo\Proyecto1.0\Proyecto1.0\obj\Debug\Proyecto1.0.dll
+F:\Trabajo\Proyecto1.0\Proyecto1.0\obj\Debug\Proyecto1.0.xml
+F:\Trabajo\Proyecto1.0\Proyecto1.0\obj\Debug\Proyecto1.0.pdb

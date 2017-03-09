@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Proyecto1.0 VB", "Proyecto1.0\Proyecto1.0 VB.vbproj", "{4C526821-DEC3-47B9-BCCF-59B61A22D14A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B02438FF-FCDF-458D-B129-6F6E79D55C03}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\ZIZVLO2S.51Q\description.html = ..\..\..\..\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\14.0\EXTENSIONS\ZIZVLO2S.51Q\description.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C526821-DEC3-47B9-BCCF-59B61A22D14A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C526821-DEC3-47B9-BCCF-59B61A22D14A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C526821-DEC3-47B9-BCCF-59B61A22D14A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C526821-DEC3-47B9-BCCF-59B61A22D14A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
