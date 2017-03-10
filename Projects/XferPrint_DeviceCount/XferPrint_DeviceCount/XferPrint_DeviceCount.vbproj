@@ -46,9 +46,6 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
-  <PropertyGroup>
-    <ApplicationIcon>X-Celeprint icon.ico</ApplicationIcon>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="Cognex.VisionPro, Version=57.4.1.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
     <Reference Include="Cognex.VisionPro.Core, Version=57.4.1.0, Culture=neutral, PublicKeyToken=ef0f902af9dee505, processorArchitecture=AMD64" />
@@ -138,9 +135,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\X-Celeprint icon.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="X-Celeprint icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
