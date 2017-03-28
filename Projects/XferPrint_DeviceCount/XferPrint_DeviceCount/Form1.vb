@@ -49,7 +49,7 @@ Public Class Form1
 
         Try
 
-            Do While (key <> F_Location.Length - 1)
+            Do
                 NewImageFile.Open(F_Location(key), CogImageFileModeConstants.Read)
                 ImageConverter.InputImage = NewImageFile(0)
                 ImageConverter.RunParams.RunMode = CogImageConvertRunModeConstants.Intensity
@@ -64,7 +64,8 @@ Public Class Form1
                 ' ToolStripStatusLabel1.Text = S_PMAlign.RunStatus.Message
                 T_Count = T_Count + S_PMAlign.Results.Count
                 key += 1
-            Loop
+            Loop While (key <> F_Location.Length)
+
         Catch exp As Exception
 
                 If (Not FileOpened) Then
